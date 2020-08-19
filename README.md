@@ -1,4 +1,4 @@
-Try the result [HERE](comic-app.000webhostapp.com)
+Try the result [HERE](https://comic-app.000webhostapp.com/)
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
