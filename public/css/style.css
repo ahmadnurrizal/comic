@@ -1,0 +1,13 @@
+.cover {
+  width: 100px;
+}
+
+.table>tbody>tr>* {
+  /*       '*' -> everything in table>body>tr will follow this code         */
+
+  vertical-align: middle;
+
+  /* middle -> center of vertical
+    center -> center of horizontal
+   */
+}
